@@ -1,0 +1,33 @@
+{
+  "name": "tedx-2024",
+  "version": "1.0.0",
+  "description": "TEDxVIT Pune Edition 9: The Space Between",
+  "keywords": [
+    "react",
+    "image sequence",
+    "scrollmagic"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "3.0.1",
+    "react-scrollmagic": "2.1.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
